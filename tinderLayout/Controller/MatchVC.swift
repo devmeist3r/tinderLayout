@@ -103,7 +103,6 @@ class MatchVC: UIViewController, UITextFieldDelegate {
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
-//        print(textField.text)
         self.sendMessage()
         return true
     }

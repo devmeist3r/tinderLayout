@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED37CC912421466D007DB54B /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED37CC902421466D007DB54B /* DetailVC.swift */; };
 		ED78128F241BBADD00B5CBC2 /* UIButton+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78128E241BBADD00B5CBC2 /* UIButton+Extensions.swift */; };
 		ED781291241C0A3700B5CBC2 /* Loading.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED781290241C0A3700B5CBC2 /* Loading.swift */; };
 		ED781293241C14C400B5CBC2 /* MatchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED781292241C14C400B5CBC2 /* MatchVC.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED37CC902421466D007DB54B /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 		ED78128E241BBADD00B5CBC2 /* UIButton+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+Extensions.swift"; sourceTree = "<group>"; };
 		ED781290241C0A3700B5CBC2 /* Loading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loading.swift; sourceTree = "<group>"; };
 		ED781292241C14C400B5CBC2 /* MatchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchVC.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				EDB46A3B241ABB88006DD790 /* CombineVC.swift */,
 				ED781292241C14C400B5CBC2 /* MatchVC.swift */,
+				ED37CC902421466D007DB54B /* DetailVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				ED781293241C14C400B5CBC2 /* MatchVC.swift in Sources */,
 				ED781291241C0A3700B5CBC2 /* Loading.swift in Sources */,
 				EDB46A29241ABB20006DD790 /* SceneDelegate.swift in Sources */,
+				ED37CC912421466D007DB54B /* DetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
